@@ -1,1 +1,1 @@
-# hybrid_interface
+# Interfaz aplicación híbrida
